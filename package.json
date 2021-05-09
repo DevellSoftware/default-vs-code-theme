@@ -1,0 +1,25 @@
+{
+    "name": "devell-theme",
+    "publisher": "filipgorny",
+    "repository": {
+        "url": "https://github.com/DevellSoftware/default-vs-code-theme"
+    },
+    "displayName": "Devell theme",
+    "description": "A simple dark theme, with fresh and readabel syntax colors, by Devell company.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Devell default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/devell-default-color-theme.json"
+            }
+        ]
+    }
+}
