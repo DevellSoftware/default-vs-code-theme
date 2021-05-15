@@ -6,7 +6,7 @@
     },
     "displayName": "Devell theme",
     "description": "A simple dark theme, with fresh and readabel syntax colors, by Devell company.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.56.0"
     },
