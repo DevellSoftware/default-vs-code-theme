@@ -1998,7 +1998,7 @@
     "editorGroupHeader.tabsBackground": "#0f0f0f",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#474747",
-    "tab.activeBackground": "#ee0000",
+    "tab.activeBackground": "#000000",
     "tab.activeBorder": "#58585800",
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#212121",
